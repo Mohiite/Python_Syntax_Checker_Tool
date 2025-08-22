@@ -10,3 +10,4 @@ Description (Working):
 5. If no errors are found, display a success message indicating the file is valid.
 
 When asked provide the syntax checker with apropriate file path in which you want to find the errors.
+(There is an errorfile where i have made an error to help check the accuracy of the syntax checker tool)
